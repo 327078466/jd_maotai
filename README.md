@@ -93,10 +93,6 @@ pip install -r requirements.txt
 
 - ✖️ 支付功能
 
-## Sponsor
-
-[![JetBrains](./docs/jetbrains.svg)](https://www.jetbrains.com/?from=jd-assistant)
-
 
 免责声明
 感谢您使用本程序的开源代码/程序。在下载和使用此代码/程序之前，请仔细阅读并理解以下声明。
