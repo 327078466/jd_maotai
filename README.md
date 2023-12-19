@@ -1,13 +1,13 @@
 # jd_maotai
 研究自动化jd 对反编译感兴趣，参考原始代码做了些许优化和调整，如有需要留言联系
-# JD-Assistant
+# JD-Seckill
 
 [![version](https://img.shields.io/badge/python-3.4+-blue.svg)](https://www.python.org/download/releases/3.4.0/) 
 [![status](https://img.shields.io/badge/status-stable-green.svg)](https://github.com/tychxn/jd-assistant)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 [![star, issue](https://img.shields.io/badge/star%2C%20issue-welcome-brightgreen.svg)](https://github.com/tychxn/jd-assistant)
 
-京东抢购助手
+jd科技助手
 
 ## 主要功能
 
