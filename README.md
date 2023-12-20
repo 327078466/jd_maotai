@@ -1,5 +1,5 @@
 # jd_maotai
-研究自动化jd 对反编译感兴趣，参考原始代码做了些许优化和调整，如有需要留言联系，交流并进群号 Q：551926377
+研究自动化jd 对反编译感兴趣，参考原始代码做了些许优化和调整，如有需要留言联系，交流并进群号 Q：551926377 觉得不错 麻烦动动小手加个star哦~
 # JD-Seckill
 
 [![version](https://img.shields.io/badge/python-3.4+-blue.svg)](https://www.python.org/download/releases/3.4.0/) 
