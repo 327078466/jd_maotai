@@ -19,6 +19,7 @@ jd科技助手
   - 库存监控
 
 ## 更新记录
+-  【2023.12.27】 上线周卡月卡模式 需要请到release取
 - 【2023.12.25】新增月黑风高抢购模式
 - 【2023.12.19】修复预约抢购模式
 - 【2023.11.30】修复预约可以加入购入车模式
@@ -42,8 +43,18 @@ jd科技助手
 
 - ✖️ 支付功能
 
+## 免费3天key
+
+
+AT-npGB8eMlRVIJrLBG3uacfA==
+AT-QQ94+pRdKrtZHznbDQ3HlQ==
+AT-eAWTAVKLzIEeZGqW76fOQg==
+AT-Q03ydgWIRyiIM6w8+Tad9g==
+AT-1iKinbPEwSdWLOcSI4FnmA==
+
 ## 最新成功案例
 ![28545d3a1c2b7e945a3c354eb18381ab](https://github.com/327078466/jd_maotai/assets/88604688/0e8af0d8-ea62-4a88-a623-6390313a8713)
+
 
 
 免责声明
