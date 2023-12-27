@@ -1,5 +1,6 @@
 # jd_maotai
 研究自动化jd 对反编译感兴趣，参考原始代码做了些许优化和调整，如有需要留言联系，交流并进群号 Q：551926377 觉得不错 麻烦动动小手加个star哦~
+软件下载地址  https://wwcq.lanzouj.com/i3bF81j4d8ne
 # JD-Seckill
 jd科技助手
 ## 主要功能
@@ -43,7 +44,7 @@ jd科技助手
 
 - ✖️ 支付功能
 
-## 免费3天key
+## 免费3天key第一批
 
 
 AT-npGB8eMlRVIJrLBG3uacfA==
