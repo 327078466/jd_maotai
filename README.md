@@ -3,7 +3,7 @@
 <br>
 ~~软件下载地址  https://wwcq.lanzouj.com/i3bF81j4d8ne~~
 <br>
-软件下载地址 https://wwcq.lanzouj.com/iscsT1j7bzqf
+软件下载地址 https://wwcq.lanzouj.com/ibpzD1j7dusj
 
 # JD-Seckill
 jd科技助手
