@@ -50,7 +50,7 @@ jd科技助手
 
 - ✖️ 支付功能
 
-## 免费1天key第二批
+## 免费1天key第二批（最后一批）
 
 
 AT-ivz6AY5hb9MEgURiBCZ0Kg==
