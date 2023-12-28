@@ -1,7 +1,8 @@
 # jd_maotai
 研究自动化jd 对反编译感兴趣，参考原始代码做了些许优化和调整，如有需要留言联系，交流并进群号 Q：551926377 觉得不错 麻烦动动小手加个star哦~
+<br>
 ~~软件下载地址  https://wwcq.lanzouj.com/i3bF81j4d8ne~~
-
+<br>
 软件下载地址 https://wwcq.lanzouj.com/iscsT1j7bzqf
 
 # JD-Seckill
