@@ -1,10 +1,3 @@
-2023-12-08 12:00:01,186 - INFO: 峰抢购结果:{'errorMessage': '很遗憾没有抢到，再接再厉哦。', 'orderId': 0, 'resultCode': 90016, 'skuId': 0, 'success': False}
-2023-12-08 12:00:01,193 - INFO: 获取抢购链接:https://marathon.jd.com/seckillM/seckill.action?skuId=100012043978&num=1&rid=1702008001&deliveryMode=
-2023-12-08 12:00:01,384 - INFO: 获取抢购链接:https://marathon.jd.com/seckillM/seckill.action?skuId=100012043978&num=1&rid=1702008001&deliveryMode=
-2023-12-08 12:00:01,426 - INFO: 获取抢购链接:https://marathon.jd.com/seckillM/seckill.action?skuId=100012043978&num=1&rid=1702008001&deliveryMode=
-2023-12-08 12:00:01,498 - INFO: 获取抢购链接:https://marathon.jd.com/seckillM/seckill.action?skuId=100012043978&num=1&rid=1702008001&deliveryMode=
-2023-12-08 12:00:01,551 - INFO: 获取抢购链接:https://marathon.jd.com/seckillM/seckill.action?skuId=100012043978&num=1&rid=1702008001&deliveryMode=
-2023-12-08 12:00:01,697 - INFO: 获取抢购链接:https://marathon.jd.com/seckillM/seckill.action?skuId=100012043978&num=1&rid=1702008001&deliveryMode=
 2023-12-08 12:00:01,811 - INFO: 峰抢购结果:{'errorMessage': '很遗憾没有抢到，再接再厉哦。', 'orderId': 0, 'resultCode': 90016, 'skuId': 0, 'success': False}
 2023-12-08 12:00:01,813 - INFO: 获取抢购链接:https://marathon.jd.com/seckillM/seckill.action?skuId=100012043978&num=1&rid=1702008001&deliveryMode=
 2023-12-08 12:00:01,821 - INFO: 获取抢购链接:https://marathon.jd.com/seckillM/seckill.action?skuId=100012043978&num=1&rid=1702008001&deliveryMode=
