@@ -66,7 +66,10 @@ AT-sOAK9UCzcD+rG2fmKmc/0A==
 <br>
 点赞加赞助 可以领卡密哦！！！
 （点赞日卡 2.9米周卡 9.9米月卡 29.9米季卡 66.6米年卡）
-![Snipaste_2024-02-02_15-56-03](https://github.com/327078466/jd_maotai/assets/88604688/0754883a-bac5-4334-8833-3a37aaac5b58)
+
+<br/>
+
+![Snipaste_2024-02-02_15-56-03](https://github.com/327078466/jd_maotai/assets/88604688/b1384be4-c0e8-411f-9c26-2ddfacee1ab8)
 
 ## 最新成功案例
 ![28545d3a1c2b7e945a3c354eb18381ab](https://github.com/327078466/jd_maotai/assets/88604688/0e8af0d8-ea62-4a88-a623-6390313a8713)
