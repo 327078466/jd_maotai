@@ -12,9 +12,6 @@
 <br/>
 如有需要留言联系，交流并进群号 Q：551926377 觉得不错 麻烦动动小手加个star哦~
 <br>
-~~软件下载地址  https://wwcq.lanzouj.com/i3bF81j4d8ne~~
-
-<br>
 软件下载地址 https://7110.lanzouj.com/iGVKj1pqurqb
 
 # JD-Seckill
