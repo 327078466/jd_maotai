@@ -1,18 +1,6 @@
 # jd_maotai
 研究自动化jd 对反编译感兴趣，参考原始代码做了些许优化和调整，
 如需要卡密 关注公众号发送 领卡密
-<br/>
-![Snipaste_2024-02-29_11-47-17](https://github.com/327078466/jd_maotai/assets/88604688/b262f5c8-1f73-4f6a-9028-b7b720f2d287)
-<br/>
-如下：
-<br/>
-![Snipaste_2024-02-29_18-00-27](https://github.com/327078466/jd_maotai/assets/88604688/8cf3773f-e031-4b8e-b136-16a815f35fc8)
-
-
-<br/>
-如有需要留言联系，交流并进群号 Q：551926377 觉得不错 麻烦动动小手加个star哦~
-<br>
-软件下载地址 https://7110.lanzouj.com/iGVKj1pqurqb
 
 # JD-Seckill
 jd科技助手
@@ -80,7 +68,16 @@ star加赞助 可以领卡密哦！！！  （关注下面公众号发私信 领
 
 ![Snipaste_2024-02-29_11-47-17](https://github.com/327078466/jd_maotai/assets/88604688/b262f5c8-1f73-4f6a-9028-b7b720f2d287)
 
+<br/>
+如下：
+<br/>
+![Snipaste_2024-02-29_18-00-27](https://github.com/327078466/jd_maotai/assets/88604688/8cf3773f-e031-4b8e-b136-16a815f35fc8)
 
+
+<br/>
+如有需要留言联系，交流并进群号 Q：551926377 觉得不错 麻烦动动小手加个star哦~
+<br>
+软件下载地址 https://7110.lanzouj.com/iGVKj1pqurqb
 
 ## 最新成功案例
 ![28545d3a1c2b7e945a3c354eb18381ab](https://github.com/327078466/jd_maotai/assets/88604688/0e8af0d8-ea62-4a88-a623-6390313a8713)
