@@ -64,12 +64,14 @@ AT-QiKBGenTeyGjI0ZWHfa7Dg==
 AT-sOAK9UCzcD+rG2fmKmc/0A==
 
 <br>
-star加赞助 可以领卡密哦！！！
+star加赞助 可以领卡密哦！！！  （关注下面公众号发私信 领卡密）
 （star日卡 2.9米周卡 9.9米月卡 29.9米季卡 66.6米年卡）
 
 <br/>
 
-![Snipaste_2024-02-02_15-56-03](https://github.com/327078466/jd_maotai/assets/88604688/b1384be4-c0e8-411f-9c26-2ddfacee1ab8)
+![Snipaste_2024-02-29_11-47-17](https://github.com/327078466/jd_maotai/assets/88604688/b262f5c8-1f73-4f6a-9028-b7b720f2d287)
+
+
 
 ## 最新成功案例
 ![28545d3a1c2b7e945a3c354eb18381ab](https://github.com/327078466/jd_maotai/assets/88604688/0e8af0d8-ea62-4a88-a623-6390313a8713)
