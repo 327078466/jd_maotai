@@ -65,7 +65,8 @@ star加赞助 可以领卡密哦！！！  （关注下面公众号发私信 领
 
 <br/>
 
-![Snipaste_2024-02-29_11-47-17](https://github.com/327078466/jd_maotai/assets/88604688/b262f5c8-1f73-4f6a-9028-b7b720f2d287)
+![qrcode_for_gh_8ef5d9b4131e_258 (1)](https://github.com/327078466/jd_maotai/assets/88604688/67242bfb-c171-4094-a774-11a79204c5c3)
+
 
 <br/>
 如下：
